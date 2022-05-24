@@ -1,0 +1,10 @@
+# Pytorch
+*.pth
+
+# Pycharm
+__pycache__/*
+.idea
+.vscode
+
+# test_data
+test_data/PIP/*
